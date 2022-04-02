@@ -1,5 +1,5 @@
 /**
-* The Circle class models a circle with a radius and color.
+* The Circle class models a circle with a radius and color. 
 */
 public class Circle { 
     // Save as "Circle.java"
